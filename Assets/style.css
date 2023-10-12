@@ -7,4 +7,6 @@ body {
   color: white;
   background-color: rgba(14, 14, 53, 0.863);
   margin: 10px;
+  width: 40px;
+  border-radius: 10px;
 }
