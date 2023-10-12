@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(141, 212, 230);
+  text-align: center;
+}
+
+.cell {
+  color: white;
+  background-color: rgba(14, 14, 53, 0.863);
+  margin: 10px;
+}
